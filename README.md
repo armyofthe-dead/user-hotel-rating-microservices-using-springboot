@@ -31,7 +31,7 @@ The User Hotel Rating Microservice is a RESTful API built using Spring Boot, Spr
 
 1. Clone the repository:
 
-git clone https://github.com/sKyi01/user-hotel-rating-microservices-springboot.git
+git clone https://github.com/armyofthe-dead/user-hotel-rating-microservices-using-springboot
 
 ## Navigate to the project directory:
 cd user-hotel-rating-microservice
